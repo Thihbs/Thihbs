@@ -1,5 +1,18 @@
 #  Thiago Bento | Especialista em automação de testes |  💻🚀 <br>
 
+<br><br><br>
+
+### 🔭 Atualmente trabalho na Serasa Experian como QA SR.
+
+### 📚 Estou estudando sobre os frameworks cypress, playwrith, robot frameworks e novas tecnologias do mercado.
+
+### ⚠️ Gosto de me aventurar em alguns projetos de desenvolvimento de games usando alguns frameworks como Phaser3.js,Godot, Unity entre outros. 
+
+### 📫 Meu e-mail para contato: tionooah@gmail.com.br
+
+<br><br>
+## Status do Github
+
 <br>
 <br>
 <div>
