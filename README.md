@@ -6,7 +6,7 @@
 
 ### 📚 Estou estudando sobre os frameworks cypress, playwrith, robot frameworks e novas tecnologias do mercado.
 
-### ⚠️ Gosto de me aventurar em alguns projetos de desenvolvimento de games usando alguns frameworks como Phaser3.js,Godot, Unity entre outros. 
+### ⚠️ Gosto de me aventurar em alguns projetos de desenvolvimento de aplicativos.
 
 ### 📫 Meu e-mail para contato: tionooah@gmail.com.br
 
